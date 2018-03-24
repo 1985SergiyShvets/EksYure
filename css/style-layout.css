@@ -137,6 +137,9 @@
   }
 }
 @media (min-width: 581px) and (max-width: 767px) {
+  body {
+    background: rgb(235, 235, 235);
+  }
   .karkas,.karkas1 {
     width: 100%;
   }
