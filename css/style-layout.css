@@ -415,16 +415,23 @@
   }
   .center {
     padding-top: 200px;
-    font-size: 0.7em;
+    font-size: 0.55em;
   }
   .fly-in-text li {
     font-size: 2em;
   }
   .fly-in-text-1 li {
     font-size: 2.3em;
-    margin-right: 2px;
   }
   .kontimg {
   margin-top: 10px;
+  }
+  .headb {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  .fly-in-text-1 {
+    display: none;
   }
 }
