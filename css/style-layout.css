@@ -416,6 +416,7 @@
   .center {
     padding-top: 200px;
     font-size: 0.55em;
+    width: 100vw;
   }
   .fly-in-text li {
     font-size: 2em;
