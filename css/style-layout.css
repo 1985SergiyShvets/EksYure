@@ -263,6 +263,7 @@
   }
   header nav ul {
     background-color: rgba(252, 252, 252, 0.205);
+    border-top: none;
   }
   .touch-menu {
     display: block;
@@ -425,7 +426,7 @@
     font-size: 2em;
   }
   .fly-in-text-1 li {
-    font-size: 2.3em;
+    font-size: 3em;
   }
   .kontimg {
   margin-top: 10px;
