@@ -461,4 +461,7 @@
   #topcontrol {
     width: 40px;
   }
+  .footimg {
+    max-width: 40px;
+  }
 }
