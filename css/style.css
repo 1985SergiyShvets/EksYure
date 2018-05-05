@@ -934,7 +934,7 @@ a {
   padding: 0px 10px;
 }
 .footimg {
-  max-width: none;
+  max-width: auto;
 }
 .footb {
   text-transform: uppercase;
